@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Osobní portfolio a prezentace - Lukáš Dytko">
+    <title>Lukáš Dytko - Holič & Školitel</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        section {
+            padding: 20px;
+            margin: 10px;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        h1, h2 {
+            margin-bottom: 10px;
+        }
+        a {
+            color: #3498db;
+            text-decoration: none;
+        }
+        .social-links a {
+            margin-right: 10px;
+        }
+        footer {
+            text-align: center;
+            padding: 20px;
+            background-color: #333;
+            color: white;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Lukáš Dytko</h1>
+        <p>Holič & Školitel</p>
+    </header>
+
+    <section>
+        <h2>O mně</h2>
+        <p>Ahoj, jmenuji se Lukáš Dytko, jsem profesionální holič s 8 lety zkušeností v oboru. Specializuji se na moderní techniky úpravy vlasů a vousů a zároveň působím jako školitel, kde se věnuji předávání svých dovedností dalším profesionálům.</p>
+    </section>
+
+    <section>
+        <h2>Portfolio</h2>
+        <ul>
+            <li><strong>Projekt 1: Moderní střihy</strong> – Vytvářím personalizované účesy pro klienty na základě jejich stylu a přání, vždy s důrazem na detail a preciznost.</li>
+            <li><strong>Projekt 2: Školení holičů</strong> – Jako školitel vedu workshopy a kurzy pro začínající i zkušené holiče, kde se zaměřuji na techniky střihu, úpravu vousů a moderní trendy v holičství.</li>
+            <li><strong>Projekt 3: Péče o vousy</strong> – Specializuji se na profesionální úpravu vousů, od klasických stylů až po moderní trendy, s použitím nejkvalitnějších produktů na trhu.</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Kontakty</h2>
+        <p>Můžeš mě kontaktovat na následujících kanálech:</p>
+        <ul>
+            <li>Email: <a href="mailto:spuke@email.cz">spuke@email.cz</a></li>
+            <li>Telefon: +420 734 819 050</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Sociální sítě</h2>
+        <div class="social-links">
+            <a href="https://www.instagram.com/lukasdytko" target="_blank">Instagram: lukasdytko</a>
+        </div>
+    </section>
+
+    <section>
+        <h2>Galerie</h2>
+        <p>Fotky mých projektů a činností:</p>
+        <img src="obrazek1.jpg" alt="Střih vlasů" style="max-width: 100%; height: auto;">
+        <img src="obrazek2.jpg" alt="Úprava vousů" style="max-width: 100%; height: auto;">
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Lukáš Dytko - Všechna práva vyhrazena</p>
+    </footer>
+
+</body>
+</html>
